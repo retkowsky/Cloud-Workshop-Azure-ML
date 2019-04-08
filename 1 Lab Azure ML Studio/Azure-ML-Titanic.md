@@ -12,7 +12,7 @@ Today, we’re going to create a model to predict who would have lived (and died
 
 3.  On the bottom left, click the plus sign, and choose **DATASET** -> **FROM LOCAL FILE**.  
 
-    ![New Item](/images/new.png)
+    ![New Item](images/new.png)
     ![New Dataset](/images/new-dataset.jpg)
 
 4.  Upload your new dataset, naming it appropriately, for example: "Titanic Dataset".  Hit the check mark when you've filled out the form to upload the data.
